@@ -1,0 +1,502 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PcGts xmlns="https://schema.omnius.com/pagesformat/2019.07.03">
+  <Metadata>
+    <Creator>pagexmltools.pages.pagexml_create v3.25.0 (PageXML 2020.02.10)</Creator>
+    <Created>2020-03-20T11:58:25Z</Created>
+    <LastChange>2020-03-20T11:58:25Z</LastChange>
+  </Metadata>
+  <Page imageFilename="form_165.jpg" imageHeight="1662" imageWidth="1920">
+    <Word id="w0">
+      <Coords points="127,123 217,123 217,158 127,158"/>
+      <TextEquiv>
+        <Unicode>ballistic</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w1">
+      <Coords points="227,123 322,123 322,158 227,158"/>
+      <TextEquiv>
+        <Unicode>missiles</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w2">
+      <Property key="entity" value="B-tim"/>
+      <Coords points="320,121 424,121 424,180 320,180"/>
+      <TextEquiv>
+        <Unicode>Monday</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w3">
+      <Coords points="428,128 480,128 480,162 428,162"/>
+      <TextEquiv>
+        <Unicode>told</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w4">
+      <Property key="entity" value="B-gpe"/>
+      <Coords points="480,126 571,126 571,172 480,172"/>
+      <TextEquiv>
+        <Unicode>Russian</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w5">
+      <Coords points="572,132 697,132 697,165 572,165"/>
+      <TextEquiv>
+        <Unicode>television</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w6">
+      <Coords points="697,131 731,131 731,163 697,163"/>
+      <TextEquiv>
+        <Unicode>the</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w7">
+      <Coords points="738,136 789,136 789,162 738,162"/>
+      <TextEquiv>
+        <Unicode>new</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w8">
+      <Coords points="789,133 879,133 879,161 789,161"/>
+      <TextEquiv>
+        <Unicode>version</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w9">
+      <Coords points="864,126 909,126 909,179 864,179"/>
+      <TextEquiv>
+        <Unicode>of</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w10">
+      <Coords points="896,123 952,123 952,176 896,176"/>
+      <TextEquiv>
+        <Unicode>the</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w11">
+      <Coords points="947,119 1054,119 1054,170 947,170"/>
+      <TextEquiv>
+        <Unicode>TopolM</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w12">
+      <Coords points="1054,124 1140,124 1140,183 1054,183"/>
+      <TextEquiv>
+        <Unicode>missile</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w13">
+      <Coords points="1132,129 1158,129 1158,156 1132,156"/>
+      <TextEquiv>
+        <Unicode>is</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w14">
+      <Coords points="1164,125 1253,125 1253,170 1164,170"/>
+      <TextEquiv>
+        <Unicode>capable</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w15">
+      <Coords points="1252,126 1292,126 1292,178 1252,178"/>
+      <TextEquiv>
+        <Unicode>of</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w16">
+      <Coords points="1291,132 1413,132 1413,181 1291,181"/>
+      <TextEquiv>
+        <Unicode>penetrating</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w17">
+      <Coords points="1422,130 1572,130 1572,184 1422,184"/>
+      <TextEquiv>
+        <Unicode>multilayered</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w18">
+      <Coords points="1570,135 1649,135 1649,169 1570,169"/>
+      <TextEquiv>
+        <Unicode>missile</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w19">
+      <Coords points="1644,134 1736,134 1736,188 1644,188"/>
+      <TextEquiv>
+        <Unicode>defense</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w20">
+      <Coords points="127,191 225,191 225,241 127,241"/>
+      <TextEquiv>
+        <Unicode>systems</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w21">
+      <Property key="entity" value="B-per"/>
+      <Coords points="222,183 302,183 302,220 222,220"/>
+      <TextEquiv>
+        <Unicode>Ivanov</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w22">
+      <Coords points="311,188 369,188 369,221 311,221"/>
+      <TextEquiv>
+        <Unicode>said</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w23">
+      <Coords points="366,189 409,189 409,222 366,222"/>
+      <TextEquiv>
+        <Unicode>the</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w24">
+      <Coords points="407,180 506,180 506,250 407,250"/>
+      <TextEquiv>
+        <Unicode>missiles</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w25">
+      <Coords points="494,193 552,193 552,244 494,244"/>
+      <TextEquiv>
+        <Unicode>will</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w26">
+      <Coords points="541,194 606,194 606,247 541,247"/>
+      <TextEquiv>
+        <Unicode>form</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w27">
+      <Coords points="604,193 647,193 647,227 604,227"/>
+      <TextEquiv>
+        <Unicode>the</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w28">
+      <Coords points="653,203 710,203 710,253 653,253"/>
+      <TextEquiv>
+        <Unicode>core</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w29">
+      <Coords points="699,193 729,193 729,246 699,246"/>
+      <TextEquiv>
+        <Unicode>of</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w30">
+      <Property key="entity" value="B-org"/>
+      <Coords points="742,189 820,189 820,236 742,236"/>
+      <TextEquiv>
+        <Unicode>Russia</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w31">
+      <Coords points="814,202 833,202 833,223 814,223"/>
+      <TextEquiv>
+        <Unicode>s</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w32">
+      <Coords points="832,176 933,176 933,242 832,242"/>
+      <TextEquiv>
+        <Unicode>strategic</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w33">
+      <Coords points="943,186 1022,186 1022,221 943,221"/>
+      <TextEquiv>
+        <Unicode>missile</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w34">
+      <Coords points="1020,187 1092,187 1092,239 1020,239"/>
+      <TextEquiv>
+        <Unicode>forces</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w35">
+      <Coords points="1090,184 1141,184 1141,219 1090,219"/>
+      <TextEquiv>
+        <Unicode>He</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w36">
+      <Coords points="1128,186 1209,186 1209,220 1128,220"/>
+      <TextEquiv>
+        <Unicode>called</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w37">
+      <Coords points="1206,179 1281,179 1281,221 1206,221"/>
+      <TextEquiv>
+        <Unicode>them</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w38">
+      <Coords points="1278,200 1302,200 1302,222 1278,222"/>
+      <TextEquiv>
+        <Unicode>a</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w39">
+      <Coords points="1287,197 1355,197 1355,243 1287,243"/>
+      <TextEquiv>
+        <Unicode>new</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w40">
+      <Coords points="1349,182 1477,182 1477,252 1349,252"/>
+      <TextEquiv>
+        <Unicode>generation</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w41">
+      <Coords points="1468,183 1507,183 1507,247 1468,247"/>
+      <TextEquiv>
+        <Unicode>of</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w42">
+      <Coords points="1498,184 1540,184 1540,236 1498,236"/>
+      <TextEquiv>
+        <Unicode>the</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w43">
+      <Coords points="1548,202 1662,202 1662,250 1548,250"/>
+      <TextEquiv>
+        <Unicode>stationary</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w44">
+      <Coords points="1657,188 1731,188 1731,243 1657,243"/>
+      <TextEquiv>
+        <Unicode>Topol</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w45">
+      <Coords points="127,239 210,239 210,304 127,304"/>
+      <TextEquiv>
+        <Unicode>system</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w46">
+      <Coords points="199,250 293,250 293,303 199,303"/>
+      <TextEquiv>
+        <Unicode>already</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w47">
+      <Coords points="294,256 322,256 322,283 294,283"/>
+      <TextEquiv>
+        <Unicode>in</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w48">
+      <Coords points="320,259 406,259 406,285 320,285"/>
+      <TextEquiv>
+        <Unicode>service</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w49">
+      <Coords points="408,249 514,249 514,288 408,288"/>
+      <TextEquiv>
+        <Unicode>Western</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w50">
+      <Coords points="508,247 606,247 606,310 508,310"/>
+      <TextEquiv>
+        <Unicode>analysts</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w51">
+      <Coords points="617,255 663,255 663,310 617,310"/>
+      <TextEquiv>
+        <Unicode>say</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w52">
+      <Coords points="656,245 724,245 724,302 656,302"/>
+      <TextEquiv>
+        <Unicode>Topol</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w53">
+      <Coords points="735,255 823,255 823,289 735,289"/>
+      <TextEquiv>
+        <Unicode>missiles</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w54">
+      <Coords points="823,261 882,261 882,285 823,285"/>
+      <TextEquiv>
+        <Unicode>were</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w55">
+      <Coords points="888,240 939,240 939,305 888,305"/>
+      <TextEquiv>
+        <Unicode>first</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w56">
+      <Coords points="939,249 1042,249 1042,303 939,303"/>
+      <TextEquiv>
+        <Unicode>deployed</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w57">
+      <Coords points="1050,252 1083,252 1083,282 1050,282"/>
+      <TextEquiv>
+        <Unicode>in</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w58">
+      <Property key="entity" value="B-gpe"/>
+      <Coords points="1068,245 1162,245 1162,293 1068,293"/>
+      <TextEquiv>
+        <Unicode>Russian</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w59">
+      <Coords points="1162,250 1226,250 1226,283 1162,283"/>
+      <TextEquiv>
+        <Unicode>silos</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w60">
+      <Coords points="1234,257 1254,257 1254,283 1234,283"/>
+      <TextEquiv>
+        <Unicode>in</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w61">
+      <Coords points="1252,250 1303,250 1303,284 1252,284"/>
+      <TextEquiv>
+        <Unicode>the</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w62">
+      <Coords points="1305,242 1357,242 1357,285 1305,285"/>
+      <TextEquiv>
+        <Unicode>late</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w63">
+      <Property key="entity" value="B-tim"/>
+      <Coords points="1356,264 1421,264 1421,292 1356,292"/>
+      <TextEquiv>
+        <Unicode>1990s</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w64">
+      <Coords points="1415,253 1464,253 1464,288 1415,288"/>
+      <TextEquiv>
+        <Unicode>The</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w65">
+      <Coords points="1472,265 1526,265 1526,290 1472,290"/>
+      <TextEquiv>
+        <Unicode>new</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w66">
+      <Coords points="1525,259 1621,259 1621,293 1525,293"/>
+      <TextEquiv>
+        <Unicode>missiles</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w67">
+      <Coords points="1619,249 1733,249 1733,314 1619,314"/>
+      <TextEquiv>
+        <Unicode>reportedly</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w68">
+      <Coords points="1742,272 1780,272 1780,295 1742,295"/>
+      <TextEquiv>
+        <Unicode>can</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w69">
+      <Coords points="126,304 184,304 184,366 126,366"/>
+      <TextEquiv>
+        <Unicode>carry</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w70">
+      <Coords points="190,323 205,323 205,346 190,346"/>
+      <TextEquiv>
+        <Unicode>a</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w71">
+      <Coords points="215,323 278,323 278,346 215,346"/>
+      <TextEquiv>
+        <Unicode>1200</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w72">
+      <Coords points="266,313 392,313 392,366 266,366"/>
+      <TextEquiv>
+        <Unicode>kilogram</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w73">
+      <Coords points="382,317 488,317 488,369 382,369"/>
+      <TextEquiv>
+        <Unicode>payload</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w74">
+      <Coords points="481,319 537,319 537,352 481,352"/>
+      <TextEquiv>
+        <Unicode>and</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w75">
+      <Coords points="537,319 598,319 598,352 537,352"/>
+      <TextEquiv>
+        <Unicode>have</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w76">
+      <Coords points="596,330 624,330 624,353 596,353"/>
+      <TextEquiv>
+        <Unicode>an</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w77">
+      <Coords points="621,319 738,319 738,354 621,354"/>
+      <TextEquiv>
+        <Unicode>estimated</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w78">
+      <Coords points="733,319 805,319 805,371 733,371"/>
+      <TextEquiv>
+        <Unicode>range</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w79">
+      <Coords points="817,317 849,317 849,369 817,369"/>
+      <TextEquiv>
+        <Unicode>of</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w80">
+      <Coords points="845,303 911,303 911,348 845,348"/>
+      <TextEquiv>
+        <Unicode>about</Unicode>
+      </TextEquiv>
+    </Word>
+  </Page>
+</PcGts>

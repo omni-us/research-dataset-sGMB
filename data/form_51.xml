@@ -1,0 +1,490 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PcGts xmlns="https://schema.omnius.com/pagesformat/2019.07.03">
+  <Metadata>
+    <Creator>pagexmltools.pages.pagexml_create v3.25.0 (PageXML 2020.02.10)</Creator>
+    <Created>2020-03-20T12:02:08Z</Created>
+    <LastChange>2020-03-20T12:02:08Z</LastChange>
+  </Metadata>
+  <Page imageFilename="form_51.jpg" imageHeight="1666" imageWidth="1920">
+    <Word id="w0">
+      <Coords points="127,142 143,142 143,157 127,157"/>
+      <TextEquiv>
+        <Unicode>in</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w1">
+      <Property key="entity" value="B-geo"/>
+      <Coords points="152,135 249,135 249,161 152,161"/>
+      <TextEquiv>
+        <Unicode>Thailand</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w2">
+      <Coords points="249,142 266,142 266,161 249,161"/>
+      <TextEquiv>
+        <Unicode>s</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w3">
+      <Coords points="264,134 428,134 428,166 264,166"/>
+      <TextEquiv>
+        <Unicode>Muslimmajority</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w4">
+      <Coords points="421,136 492,136 492,160 421,160"/>
+      <TextEquiv>
+        <Unicode>south</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w5">
+      <Coords points="476,144 519,144 519,158 476,158"/>
+      <TextEquiv>
+        <Unicode>are</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w6">
+      <Coords points="530,139 605,139 605,168 530,168"/>
+      <TextEquiv>
+        <Unicode>training</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w7">
+      <Coords points="604,144 642,144 642,168 604,168"/>
+      <TextEquiv>
+        <Unicode>in</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w8">
+      <Coords points="640,126 758,126 758,173 640,173"/>
+      <TextEquiv>
+        <Unicode>neighboring</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w9">
+      <Property key="entity" value="B-geo"/>
+      <Coords points="755,148 848,148 848,172 755,172"/>
+      <TextEquiv>
+        <Unicode>Malaysia</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w10">
+      <Property key="entity" value="B-gpe"/>
+      <Coords points="845,144 911,144 911,168 845,168"/>
+      <TextEquiv>
+        <Unicode>Thai</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w11">
+      <Property key="entity" value="B-per"/>
+      <Coords points="906,145 980,145 980,173 906,173"/>
+      <TextEquiv>
+        <Unicode>Deputy</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w12">
+      <Property key="entity" value="B-per"/>
+      <Coords points="989,143 1061,143 1061,170 989,170"/>
+      <TextEquiv>
+        <Unicode>Interior</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w13">
+      <Property key="entity" value="B-per"/>
+      <Coords points="1068,141 1157,141 1157,169 1068,169"/>
+      <TextEquiv>
+        <Unicode>Minister</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w14">
+      <Property key="entity" value="B-per"/>
+      <Coords points="1148,140 1234,140 1234,168 1148,168"/>
+      <TextEquiv>
+        <Unicode>Sutham</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w15">
+      <Property key="entity" value="B-per"/>
+      <Coords points="1244,142 1388,142 1388,170 1244,170"/>
+      <TextEquiv>
+        <Unicode>Saengprathum</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w16">
+      <Coords points="1385,148 1445,148 1445,172 1385,172"/>
+      <TextEquiv>
+        <Unicode>says</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w17">
+      <Coords points="1444,142 1485,142 1485,173 1444,173"/>
+      <TextEquiv>
+        <Unicode>the</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w18">
+      <Coords points="1481,145 1544,145 1544,173 1481,173"/>
+      <TextEquiv>
+        <Unicode>photos</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w19">
+      <Coords points="1552,148 1598,148 1598,169 1552,169"/>
+      <TextEquiv>
+        <Unicode>show</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w20">
+      <Coords points="1610,143 1639,143 1639,167 1610,167"/>
+      <TextEquiv>
+        <Unicode>the</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w21">
+      <Coords points="1648,146 1733,146 1733,171 1648,171"/>
+      <TextEquiv>
+        <Unicode>militants</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w22">
+      <Coords points="130,203 206,203 206,230 130,230"/>
+      <TextEquiv>
+        <Unicode>training</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w23">
+      <Coords points="202,204 244,204 244,230 202,230"/>
+      <TextEquiv>
+        <Unicode>in</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w24">
+      <Property key="entity" value="B-geo"/>
+      <Coords points="226,202 334,202 334,228 226,228"/>
+      <TextEquiv>
+        <Unicode>Malaysia</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w25">
+      <Coords points="332,208 347,208 347,224 332,224"/>
+      <TextEquiv>
+        <Unicode>s</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w26">
+      <Coords points="357,198 441,198 441,223 357,223"/>
+      <TextEquiv>
+        <Unicode>northern</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w27">
+      <Property key="entity" value="B-geo"/>
+      <Coords points="448,193 548,193 548,226 448,226"/>
+      <TextEquiv>
+        <Unicode>Kelantan</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w28">
+      <Coords points="534,201 586,201 586,244 534,244"/>
+      <TextEquiv>
+        <Unicode>state</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w29">
+      <Coords points="584,205 651,205 651,225 584,225"/>
+      <TextEquiv>
+        <Unicode>which</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w30">
+      <Coords points="658,207 729,207 729,230 658,230"/>
+      <TextEquiv>
+        <Unicode>borders</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w31">
+      <Coords points="737,208 829,208 829,230 737,230"/>
+      <TextEquiv>
+        <Unicode>southern</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w32">
+      <Property key="entity" value="B-geo"/>
+      <Coords points="827,207 918,207 918,230 827,230"/>
+      <TextEquiv>
+        <Unicode>Thailand</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w33">
+      <Coords points="914,204 965,204 965,235 914,235"/>
+      <TextEquiv>
+        <Unicode>He</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w34">
+      <Coords points="960,209 1007,209 1007,232 960,232"/>
+      <TextEquiv>
+        <Unicode>said</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w35">
+      <Coords points="1007,212 1020,212 1020,234 1007,234"/>
+      <TextEquiv>
+        <Unicode>if</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w36">
+      <Property key="entity" value="B-gpe"/>
+      <Coords points="1029,210 1122,210 1122,236 1029,236"/>
+      <TextEquiv>
+        <Unicode>Malaysia</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w37">
+      <Coords points="1123,206 1197,206 1197,231 1123,231"/>
+      <TextEquiv>
+        <Unicode>wants</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w38">
+      <Coords points="1196,204 1229,204 1229,230 1196,230"/>
+      <TextEquiv>
+        <Unicode>to</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w39">
+      <Coords points="1226,215 1250,215 1250,230 1226,230"/>
+      <TextEquiv>
+        <Unicode>see</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w40">
+      <Coords points="1262,206 1300,206 1300,234 1262,234"/>
+      <TextEquiv>
+        <Unicode>the</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w41">
+      <Coords points="1284,206 1373,206 1373,234 1284,234"/>
+      <TextEquiv>
+        <Unicode>photos</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w42">
+      <Property key="entity" value="B-gpe"/>
+      <Coords points="1369,208 1451,208 1451,234 1369,234"/>
+      <TextEquiv>
+        <Unicode>Bangkok</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w43">
+      <Coords points="1448,209 1509,209 1509,238 1448,238"/>
+      <TextEquiv>
+        <Unicode>will</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w44">
+      <Coords points="1492,210 1574,210 1574,238 1492,238"/>
+      <TextEquiv>
+        <Unicode>provide</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w45">
+      <Coords points="1588,208 1642,208 1642,232 1588,232"/>
+      <TextEquiv>
+        <Unicode>them</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w46">
+      <Property key="entity" value="B-gpe"/>
+      <Coords points="1641,212 1685,212 1685,233 1641,233"/>
+      <TextEquiv>
+        <Unicode>Thai</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w47">
+      <Property key="entity" value="B-per"/>
+      <Coords points="1685,216 1753,216 1753,239 1685,239"/>
+      <TextEquiv>
+        <Unicode>Prime</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w48">
+      <Property key="entity" value="B-per"/>
+      <Coords points="128,266 216,266 216,291 128,291"/>
+      <TextEquiv>
+        <Unicode>Minister</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w49">
+      <Property key="entity" value="B-per"/>
+      <Coords points="219,262 294,262 294,287 219,287"/>
+      <TextEquiv>
+        <Unicode>Thaksin</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w50">
+      <Property key="entity" value="B-per"/>
+      <Coords points="302,265 424,265 424,289 302,289"/>
+      <TextEquiv>
+        <Unicode>Shinawatra</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w51">
+      <Coords points="425,266 468,266 468,289 425,289"/>
+      <TextEquiv>
+        <Unicode>has</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w52">
+      <Coords points="464,267 516,267 516,289 464,289"/>
+      <TextEquiv>
+        <Unicode>said</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w53">
+      <Coords points="511,267 531,267 531,286 511,286"/>
+      <TextEquiv>
+        <Unicode>he</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w54">
+      <Coords points="538,268 607,268 607,291 538,291"/>
+      <TextEquiv>
+        <Unicode>believes</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w55">
+      <Coords points="606,276 662,276 662,291 606,291"/>
+      <TextEquiv>
+        <Unicode>some</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w56">
+      <Coords points="661,273 688,273 688,295 661,295"/>
+      <TextEquiv>
+        <Unicode>of</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w57">
+      <Coords points="698,268 735,268 735,291 698,291"/>
+      <TextEquiv>
+        <Unicode>the</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w58">
+      <Coords points="735,271 830,271 830,302 735,302"/>
+      <TextEquiv>
+        <Unicode>insurgents</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w59">
+      <Coords points="838,274 889,274 889,293 838,293"/>
+      <TextEquiv>
+        <Unicode>have</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w60">
+      <Coords points="875,274 936,274 936,316 875,316"/>
+      <TextEquiv>
+        <Unicode>been</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w61">
+      <Coords points="936,273 1005,273 1005,294 936,294"/>
+      <TextEquiv>
+        <Unicode>trained</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w62">
+      <Coords points="1003,274 1042,274 1042,297 1003,297"/>
+      <TextEquiv>
+        <Unicode>in</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w63">
+      <Property key="entity" value="B-geo"/>
+      <Coords points="1039,274 1132,274 1132,301 1039,301"/>
+      <TextEquiv>
+        <Unicode>Malaysia</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w64">
+      <Property key="entity" value="B-geo"/>
+      <Coords points="1127,270 1229,270 1229,296 1127,296"/>
+      <TextEquiv>
+        <Unicode>Indonesia</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w65">
+      <Coords points="1233,272 1277,272 1277,291 1233,291"/>
+      <TextEquiv>
+        <Unicode>and</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w66">
+      <Coords points="1278,270 1374,270 1374,293 1278,293"/>
+      <TextEquiv>
+        <Unicode>southern</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w67">
+      <Property key="entity" value="B-geo"/>
+      <Coords points="1360,271 1470,271 1470,309 1360,309"/>
+      <TextEquiv>
+        <Unicode>Thailand</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w68">
+      <Property key="entity" value="B-gpe"/>
+      <Coords points="1458,272 1572,272 1572,301 1458,301"/>
+      <TextEquiv>
+        <Unicode>Malaysia</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w69">
+      <Coords points="1562,276 1610,276 1610,295 1562,295"/>
+      <TextEquiv>
+        <Unicode>and</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w70">
+      <Property key="entity" value="B-gpe"/>
+      <Coords points="1611,273 1707,273 1707,299 1611,299"/>
+      <TextEquiv>
+        <Unicode>Indonesia</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w71">
+      <Coords points="1708,277 1753,277 1753,296 1708,296"/>
+      <TextEquiv>
+        <Unicode>have</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w72">
+      <Coords points="127,330 233,330 233,357 127,357"/>
+      <TextEquiv>
+        <Unicode>demanded</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w73">
+      <Coords points="224,330 292,330 292,357 224,357"/>
+      <TextEquiv>
+        <Unicode>proof</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w74">
+      <Coords points="282,332 324,332 324,354 282,354"/>
+      <TextEquiv>
+        <Unicode>of</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w75">
+      <Property key="entity" value="B-gpe"/>
+      <Coords points="318,328 403,328 403,356 318,356"/>
+      <TextEquiv>
+        <Unicode>Bangkok</Unicode>
+      </TextEquiv>
+    </Word>
+  </Page>
+</PcGts>

@@ -1,0 +1,515 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PcGts xmlns="https://schema.omnius.com/pagesformat/2019.07.03">
+  <Metadata>
+    <Creator>pagexmltools.pages.pagexml_create v3.25.0 (PageXML 2020.02.10)</Creator>
+    <Created>2020-03-20T12:02:11Z</Created>
+    <LastChange>2020-03-20T12:02:11Z</LastChange>
+  </Metadata>
+  <Page imageFilename="form_515.jpg" imageHeight="1666" imageWidth="1920">
+    <Word id="w0">
+      <Coords points="127,149 142,149 142,168 127,168"/>
+      <TextEquiv>
+        <Unicode>of</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w1">
+      <Coords points="151,136 190,136 190,163 151,163"/>
+      <TextEquiv>
+        <Unicode>the</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w2">
+      <Coords points="204,137 281,137 281,177 204,177"/>
+      <TextEquiv>
+        <Unicode>punitive</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w3">
+      <Coords points="295,153 355,153 355,178 295,178"/>
+      <TextEquiv>
+        <Unicode>power</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w4">
+      <Coords points="374,138 400,138 400,172 374,172"/>
+      <TextEquiv>
+        <Unicode>of</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w5">
+      <Coords points="406,137 438,137 438,164 406,164"/>
+      <TextEquiv>
+        <Unicode>the</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w6">
+      <Coords points="458,138 506,138 506,166 458,166"/>
+      <TextEquiv>
+        <Unicode>state</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w7">
+      <Coords points="527,140 541,140 541,163 527,163"/>
+      <TextEquiv>
+        <Unicode>to</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w8">
+      <Coords points="562,145 624,145 624,166 562,166"/>
+      <TextEquiv>
+        <Unicode>silence</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w9">
+      <Coords points="645,143 733,143 733,182 645,182"/>
+      <TextEquiv>
+        <Unicode>opponents</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w10">
+      <Coords points="754,149 765,149 765,168 754,168"/>
+      <TextEquiv>
+        <Unicode>in</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w11">
+      <Property key="entity" value="B-geo"/>
+      <Coords points="789,144 876,144 876,170 789,170"/>
+      <TextEquiv>
+        <Unicode>Venezuela</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w12">
+      <Coords points="898,143 932,143 932,169 898,169"/>
+      <TextEquiv>
+        <Unicode>The</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w13">
+      <Property key="entity" value="B-org"/>
+      <Coords points="952,142 1019,142 1019,169 952,169"/>
+      <TextEquiv>
+        <Unicode>British</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w14">
+      <Property key="entity" value="B-org"/>
+      <Coords points="1042,142 1173,142 1173,193 1042,193"/>
+      <TextEquiv>
+        <Unicode>Broadcasting</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w15">
+      <Property key="entity" value="B-org"/>
+      <Coords points="1194,141 1310,141 1310,183 1194,183"/>
+      <TextEquiv>
+        <Unicode>Corporation</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w16">
+      <Property key="entity" value="B-org"/>
+      <Coords points="1332,144 1385,144 1385,167 1332,167"/>
+      <TextEquiv>
+        <Unicode>BBC</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w17">
+      <Coords points="1406,155 1446,155 1446,186 1406,186"/>
+      <TextEquiv>
+        <Unicode>says</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w18">
+      <Coords points="1467,140 1588,140 1588,191 1467,191"/>
+      <TextEquiv>
+        <Unicode>unidentified</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w19">
+      <Coords points="1584,154 1658,154 1658,191 1584,191"/>
+      <TextEquiv>
+        <Unicode>gunmen</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w20">
+      <Coords points="1681,139 1723,139 1723,165 1681,165"/>
+      <TextEquiv>
+        <Unicode>shot</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w21">
+      <Coords points="128,203 166,203 166,228 128,228"/>
+      <TextEquiv>
+        <Unicode>and</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w22">
+      <Coords points="167,203 257,203 257,228 167,228"/>
+      <TextEquiv>
+        <Unicode>wounded</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w23">
+      <Coords points="277,216 306,216 306,226 277,226"/>
+      <TextEquiv>
+        <Unicode>one</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w24">
+      <Coords points="326,204 345,204 345,233 326,233"/>
+      <TextEquiv>
+        <Unicode>of</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w25">
+      <Coords points="351,201 389,201 389,241 351,241"/>
+      <TextEquiv>
+        <Unicode>its</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w26">
+      <Coords points="390,203 502,203 502,241 390,241"/>
+      <TextEquiv>
+        <Unicode>journalists</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w27">
+      <Coords points="522,211 535,211 535,228 522,228"/>
+      <TextEquiv>
+        <Unicode>in</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w28">
+      <Coords points="556,205 586,205 586,230 556,230"/>
+      <TextEquiv>
+        <Unicode>the</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w29">
+      <Property key="entity" value="B-gpe"/>
+      <Coords points="606,208 673,208 673,233 606,233"/>
+      <TextEquiv>
+        <Unicode>Somali</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w30">
+      <Coords points="690,206 763,206 763,245 690,245"/>
+      <TextEquiv>
+        <Unicode>capital</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w31">
+      <Property key="entity" value="B-geo"/>
+      <Coords points="777,206 890,206 890,258 777,258"/>
+      <TextEquiv>
+        <Unicode>Mogadishu</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w32">
+      <Coords points="910,207 943,207 943,233 910,233"/>
+      <TextEquiv>
+        <Unicode>The</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w33">
+      <Coords points="965,207 1083,207 1083,235 965,235"/>
+      <TextEquiv>
+        <Unicode>broadcaster</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w34">
+      <Coords points="1104,222 1143,222 1143,253 1104,253"/>
+      <TextEquiv>
+        <Unicode>says</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w35">
+      <Property key="entity" value="B-per"/>
+      <Coords points="1157,193 1221,193 1221,254 1157,254"/>
+      <TextEquiv>
+        <Unicode>Kate</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w36">
+      <Property key="entity" value="B-per"/>
+      <Coords points="1228,204 1287,204 1287,251 1228,251"/>
+      <TextEquiv>
+        <Unicode>Peyton</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w37">
+      <Coords points="1309,221 1344,221 1344,231 1309,231"/>
+      <TextEquiv>
+        <Unicode>was</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w38">
+      <Coords points="1364,205 1432,205 1432,232 1364,232"/>
+      <TextEquiv>
+        <Unicode>rushed</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w39">
+      <Coords points="1444,205 1463,205 1463,231 1444,231"/>
+      <TextEquiv>
+        <Unicode>to</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w40">
+      <Coords points="1483,221 1491,221 1491,231 1483,231"/>
+      <TextEquiv>
+        <Unicode>a</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w41">
+      <Coords points="1512,207 1563,207 1563,231 1512,231"/>
+      <TextEquiv>
+        <Unicode>local</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w42">
+      <Coords points="1576,204 1658,204 1658,243 1576,243"/>
+      <TextEquiv>
+        <Unicode>hospital</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w43">
+      <Coords points="1672,203 1718,203 1718,236 1672,236"/>
+      <TextEquiv>
+        <Unicode>after</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w44">
+      <Coords points="1735,203 1766,203 1766,229 1735,229"/>
+      <TextEquiv>
+        <Unicode>the</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w45">
+      <Coords points="128,264 197,264 197,291 128,291"/>
+      <TextEquiv>
+        <Unicode>attack</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w46">
+      <Coords points="219,276 253,276 253,293 219,293"/>
+      <TextEquiv>
+        <Unicode>and</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w47">
+      <Coords points="272,266 369,266 369,293 272,293"/>
+      <TextEquiv>
+        <Unicode>underwent</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w48">
+      <Coords points="387,281 456,281 456,318 387,318"/>
+      <TextEquiv>
+        <Unicode>surgery</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w49">
+      <Coords points="477,268 563,268 563,308 477,308"/>
+      <TextEquiv>
+        <Unicode>Hospital</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w50">
+      <Coords points="563,267 650,267 650,299 563,299"/>
+      <TextEquiv>
+        <Unicode>officials</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w51">
+      <Coords points="671,284 701,284 701,315 671,315"/>
+      <TextEquiv>
+        <Unicode>say</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w52">
+      <Coords points="722,270 751,270 751,296 722,296"/>
+      <TextEquiv>
+        <Unicode>she</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w53">
+      <Coords points="771,277 784,277 784,296 771,296"/>
+      <TextEquiv>
+        <Unicode>is</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w54">
+      <Coords points="804,255 817,255 817,296 804,296"/>
+      <TextEquiv>
+        <Unicode>in</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w55">
+      <Coords points="839,271 896,271 896,297 839,297"/>
+      <TextEquiv>
+        <Unicode>stable</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w56">
+      <Coords points="917,271 999,271 999,298 917,298"/>
+      <TextEquiv>
+        <Unicode>condition</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w57">
+      <Coords points="1021,271 1110,271 1110,299 1021,299"/>
+      <TextEquiv>
+        <Unicode>Witnesses</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w58">
+      <Coords points="1132,285 1161,285 1161,317 1132,317"/>
+      <TextEquiv>
+        <Unicode>say</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w59">
+      <Coords points="1179,270 1211,270 1211,295 1179,295"/>
+      <TextEquiv>
+        <Unicode>the</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w60">
+      <Coords points="1231,269 1331,269 1331,298 1231,298"/>
+      <TextEquiv>
+        <Unicode>attackers</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w61">
+      <Coords points="1351,271 1427,271 1427,309 1351,309"/>
+      <TextEquiv>
+        <Unicode>opened</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w62">
+      <Coords points="1432,267 1463,267 1463,301 1432,301"/>
+      <TextEquiv>
+        <Unicode>fire</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w63">
+      <Coords points="1482,285 1499,285 1499,294 1482,294"/>
+      <TextEquiv>
+        <Unicode>on</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w64">
+      <Property key="entity" value="B-per"/>
+      <Coords points="1521,271 1557,271 1557,297 1521,297"/>
+      <TextEquiv>
+        <Unicode>Ms</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w65">
+      <Property key="entity" value="B-per"/>
+      <Coords points="1578,265 1637,265 1637,314 1578,314"/>
+      <TextEquiv>
+        <Unicode>Peyton</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w66">
+      <Coords points="1659,268 1723,268 1723,294 1659,294"/>
+      <TextEquiv>
+        <Unicode>outside</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w67">
+      <Coords points="127,329 158,329 158,354 127,354"/>
+      <TextEquiv>
+        <Unicode>her</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w68">
+      <Coords points="178,329 227,329 227,355 178,355"/>
+      <TextEquiv>
+        <Unicode>hotel</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w69">
+      <Property key="entity" value="B-org"/>
+      <Coords points="243,328 313,328 313,363 243,363"/>
+      <TextEquiv>
+        <Unicode>Sahafi</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w70">
+      <Property key="entity" value="B-org"/>
+      <Coords points="328,330 384,330 384,358 328,358"/>
+      <TextEquiv>
+        <Unicode>Hotel</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w71">
+      <Coords points="384,331 437,331 437,358 384,358"/>
+      <TextEquiv>
+        <Unicode>and</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w72">
+      <Coords points="445,330 489,330 489,363 445,363"/>
+      <TextEquiv>
+        <Unicode>fled</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w73">
+      <Coords points="500,332 531,332 531,357 500,357"/>
+      <TextEquiv>
+        <Unicode>the</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w74">
+      <Coords points="552,347 601,347 601,358 552,358"/>
+      <TextEquiv>
+        <Unicode>scene</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w75">
+      <Coords points="621,339 634,339 634,358 621,358"/>
+      <TextEquiv>
+        <Unicode>in</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w76">
+      <Coords points="656,349 664,349 664,359 656,359"/>
+      <TextEquiv>
+        <Unicode>a</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w77">
+      <Coords points="686,333 750,333 750,360 686,360"/>
+      <TextEquiv>
+        <Unicode>vehicle</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w78">
+      <Coords points="771,333 788,333 788,362 771,362"/>
+      <TextEquiv>
+        <Unicode>A</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w79">
+      <Coords points="809,337 894,337 894,386 809,386"/>
+      <TextEquiv>
+        <Unicode>colleague</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w80">
+      <Coords points="916,340 993,340 993,386 916,386"/>
+      <TextEquiv>
+        <Unicode>working</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w81">
+      <Coords points="1013,334 1053,334 1053,360 1013,360"/>
+      <TextEquiv>
+        <Unicode>with</Unicode>
+      </TextEquiv>
+    </Word>
+  </Page>
+</PcGts>

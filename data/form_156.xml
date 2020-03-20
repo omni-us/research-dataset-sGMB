@@ -1,0 +1,531 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PcGts xmlns="https://schema.omnius.com/pagesformat/2019.07.03">
+  <Metadata>
+    <Creator>pagexmltools.pages.pagexml_create v3.25.0 (PageXML 2020.02.10)</Creator>
+    <Created>2020-03-20T11:58:19Z</Created>
+    <LastChange>2020-03-20T11:58:19Z</LastChange>
+  </Metadata>
+  <Page imageFilename="form_156.jpg" imageHeight="1922" imageWidth="1920">
+    <Word id="w0">
+      <Coords points="128,106 179,106 179,179 128,179"/>
+      <TextEquiv>
+        <Unicode>of</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w1">
+      <Coords points="192,105 389,105 389,186 192,186"/>
+      <TextEquiv>
+        <Unicode>national</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w2">
+      <Coords points="403,116 616,116 616,196 403,196"/>
+      <TextEquiv>
+        <Unicode>elections</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w3">
+      <Coords points="623,135 740,135 740,195 623,195"/>
+      <TextEquiv>
+        <Unicode>Five</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w4">
+      <Coords points="748,126 902,126 902,193 748,193"/>
+      <TextEquiv>
+        <Unicode>bomb</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w5">
+      <Coords points="914,115 1085,115 1085,189 914,189"/>
+      <TextEquiv>
+        <Unicode>attacks</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w6">
+      <Coords points="1096,139 1228,139 1228,199 1096,199"/>
+      <TextEquiv>
+        <Unicode>were</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w7">
+      <Coords points="1243,145 1438,145 1438,229 1243,229"/>
+      <TextEquiv>
+        <Unicode>carried</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w8">
+      <Coords points="1456,164 1530,164 1530,215 1456,215"/>
+      <TextEquiv>
+        <Unicode>out</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w9">
+      <Coords points="1547,170 1594,170 1594,220 1547,220"/>
+      <TextEquiv>
+        <Unicode>in</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w10">
+      <Property key="entity" value="B-geo"/>
+      <Coords points="117,176 367,176 367,243 117,243"/>
+      <TextEquiv>
+        <Unicode>Baghdad</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w11">
+      <Coords points="383,180 580,180 580,261 383,261"/>
+      <TextEquiv>
+        <Unicode>Wanted</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w12">
+      <Coords points="584,198 805,198 805,260 584,260"/>
+      <TextEquiv>
+        <Unicode>terrorist</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w13">
+      <Property key="entity" value="B-org"/>
+      <Coords points="816,189 935,189 935,252 816,252"/>
+      <TextEquiv>
+        <Unicode>Abu</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w14">
+      <Property key="entity" value="B-org"/>
+      <Coords points="953,179 1143,179 1143,255 953,255"/>
+      <TextEquiv>
+        <Unicode>Musab</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w15">
+      <Property key="entity" value="B-per"/>
+      <Coords points="1160,188 1439,188 1439,287 1160,287"/>
+      <TextEquiv>
+        <Unicode>alZarqawi</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w16">
+      <Coords points="1448,244 1480,244 1480,289 1448,289"/>
+      <TextEquiv>
+        <Unicode>s</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w17">
+      <Coords points="1491,243 1650,243 1650,301 1491,301"/>
+      <TextEquiv>
+        <Unicode>group</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w18">
+      <Property key="entity" value="B-org"/>
+      <Coords points="122,234 326,234 326,306 122,306"/>
+      <TextEquiv>
+        <Unicode>alQaida</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w19">
+      <Coords points="335,249 387,249 387,310 335,310"/>
+      <TextEquiv>
+        <Unicode>in</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w20">
+      <Property key="entity" value="B-geo"/>
+      <Coords points="403,249 535,249 535,320 403,320"/>
+      <TextEquiv>
+        <Unicode>Iraq</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w21">
+      <Coords points="550,257 752,257 752,326 550,326"/>
+      <TextEquiv>
+        <Unicode>claimed</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w22">
+      <Coords points="764,244 1098,244 1098,323 764,323"/>
+      <TextEquiv>
+        <Unicode>responsibility</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w23">
+      <Coords points="1100,249 1197,249 1197,320 1100,320"/>
+      <TextEquiv>
+        <Unicode>for</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w24">
+      <Coords points="1203,257 1327,257 1327,339 1203,339"/>
+      <TextEquiv>
+        <Unicode>four</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w25">
+      <Coords points="1331,278 1392,278 1392,346 1331,346"/>
+      <TextEquiv>
+        <Unicode>of</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w26">
+      <Coords points="1397,282 1529,282 1529,364 1397,364"/>
+      <TextEquiv>
+        <Unicode>them</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w27">
+      <Coords points="1540,292 1765,292 1765,366 1540,366"/>
+      <TextEquiv>
+        <Unicode>including</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w28">
+      <Coords points="128,298 220,298 220,369 128,369"/>
+      <TextEquiv>
+        <Unicode>one</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w29">
+      <Coords points="221,302 405,302 405,377 221,377"/>
+      <TextEquiv>
+        <Unicode>outside</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w30">
+      <Coords points="417,314 493,314 493,384 417,384"/>
+      <TextEquiv>
+        <Unicode>the</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w31">
+      <Property key="entity" value="B-gpe"/>
+      <Coords points="511,316 791,316 791,388 511,388"/>
+      <TextEquiv>
+        <Unicode>Australian</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w32">
+      <Coords points="805,307 1033,307 1033,383 805,383"/>
+      <TextEquiv>
+        <Unicode>embassy</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w33">
+      <Coords points="1052,307 1160,307 1160,384 1052,384"/>
+      <TextEquiv>
+        <Unicode>The</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w34">
+      <Property key="entity" value="B-geo"/>
+      <Coords points="1171,321 1246,321 1246,385 1171,385"/>
+      <TextEquiv>
+        <Unicode>US</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w35">
+      <Coords points="1266,327 1469,327 1469,418 1266,418"/>
+      <TextEquiv>
+        <Unicode>military</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w36">
+      <Coords points="1484,358 1709,358 1709,431 1484,431"/>
+      <TextEquiv>
+        <Unicode>reported</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w37">
+      <Coords points="1717,354 1770,354 1770,408 1717,408"/>
+      <TextEquiv>
+        <Unicode>at</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w38">
+      <Coords points="115,366 237,366 237,432 115,432"/>
+      <TextEquiv>
+        <Unicode>least</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w39">
+      <Coords points="257,367 336,367 336,438 257,438"/>
+      <TextEquiv>
+        <Unicode>26</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w40">
+      <Coords points="351,366 499,366 499,443 351,443"/>
+      <TextEquiv>
+        <Unicode>people</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w41">
+      <Coords points="502,382 641,382 641,454 502,454"/>
+      <TextEquiv>
+        <Unicode>were</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w42">
+      <Coords points="658,389 783,389 783,457 658,457"/>
+      <TextEquiv>
+        <Unicode>killed</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w43">
+      <Coords points="786,385 895,385 895,447 786,447"/>
+      <TextEquiv>
+        <Unicode>and</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w44">
+      <Coords points="907,376 1074,376 1074,440 907,440"/>
+      <TextEquiv>
+        <Unicode>many</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w45">
+      <Coords points="1083,375 1242,375 1242,455 1083,455"/>
+      <TextEquiv>
+        <Unicode>others</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w46">
+      <Coords points="1253,395 1501,395 1501,490 1253,490"/>
+      <TextEquiv>
+        <Unicode>wounded</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w47">
+      <Coords points="1509,421 1560,421 1560,473 1509,473"/>
+      <TextEquiv>
+        <Unicode>in</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w48">
+      <Coords points="1575,427 1700,427 1700,493 1575,493"/>
+      <TextEquiv>
+        <Unicode>those</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w49">
+      <Coords points="121,432 271,432 271,493 121,493"/>
+      <TextEquiv>
+        <Unicode>blasts</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w50">
+      <Property key="entity" value="B-geo"/>
+      <Coords points="280,429 454,429 454,505 280,505"/>
+      <TextEquiv>
+        <Unicode>North</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w51">
+      <Coords points="450,440 518,440 518,513 450,513"/>
+      <TextEquiv>
+        <Unicode>of</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w52">
+      <Coords points="521,446 594,446 594,520 521,520"/>
+      <TextEquiv>
+        <Unicode>the</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w53">
+      <Coords points="604,454 774,454 774,517 604,517"/>
+      <TextEquiv>
+        <Unicode>capital</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w54">
+      <Coords points="776,451 839,451 839,512 776,512"/>
+      <TextEquiv>
+        <Unicode>in</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w55">
+      <Property key="entity" value="B-geo"/>
+      <Coords points="844,437 1034,437 1034,511 844,511"/>
+      <TextEquiv>
+        <Unicode>Kirkuk</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w56">
+      <Coords points="1042,441 1181,441 1181,510 1042,510"/>
+      <TextEquiv>
+        <Unicode>police</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w57">
+      <Coords points="1196,468 1288,468 1288,526 1196,526"/>
+      <TextEquiv>
+        <Unicode>say</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w58">
+      <Coords points="1309,483 1338,483 1338,530 1309,530"/>
+      <TextEquiv>
+        <Unicode>a</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w59">
+      <Coords points="1351,472 1548,472 1548,557 1351,557"/>
+      <TextEquiv>
+        <Unicode>human</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w60">
+      <Coords points="1556,494 1715,494 1715,556 1556,556"/>
+      <TextEquiv>
+        <Unicode>rights</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w61">
+      <Coords points="121,494 294,494 294,560 121,560"/>
+      <TextEquiv>
+        <Unicode>activist</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w62">
+      <Coords points="310,497 409,497 409,547 310,547"/>
+      <TextEquiv>
+        <Unicode>and</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w63">
+      <Coords points="428,503 471,503 471,573 428,573"/>
+      <TextEquiv>
+        <Unicode>a</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w64">
+      <Coords points="475,509 663,509 663,585 475,585"/>
+      <TextEquiv>
+        <Unicode>relative</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w65">
+      <Coords points="674,515 799,515 799,576 674,576"/>
+      <TextEquiv>
+        <Unicode>were</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w66">
+      <Coords points="804,507 934,507 934,577 804,577"/>
+      <TextEquiv>
+        <Unicode>killed</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w67">
+      <Coords points="955,503 1078,503 1078,571 955,571"/>
+      <TextEquiv>
+        <Unicode>while</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w68">
+      <Coords points="1099,513 1152,513 1152,573 1099,573"/>
+      <TextEquiv>
+        <Unicode>in</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w69">
+      <Property key="entity" value="B-geo"/>
+      <Coords points="1161,511 1274,511 1274,585 1161,585"/>
+      <TextEquiv>
+        <Unicode>Irbil</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w70">
+      <Coords points="1283,528 1322,528 1322,596 1283,596"/>
+      <TextEquiv>
+        <Unicode>a</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w71">
+      <Coords points="1341,528 1488,528 1488,618 1341,618"/>
+      <TextEquiv>
+        <Unicode>bomb</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w72">
+      <Coords points="1491,550 1701,550 1701,619 1491,619"/>
+      <TextEquiv>
+        <Unicode>targeted</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w73">
+      <Coords points="128,559 199,559 199,607 128,607"/>
+      <TextEquiv>
+        <Unicode>the</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w74">
+      <Coords points="216,572 383,572 383,633 216,633"/>
+      <TextEquiv>
+        <Unicode>convoy</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w75">
+      <Coords points="404,568 452,568 452,630 404,630"/>
+      <TextEquiv>
+        <Unicode>of</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w76">
+      <Coords points="470,572 549,572 549,640 470,640"/>
+      <TextEquiv>
+        <Unicode>the</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w77">
+      <Coords points="556,577 689,577 689,639 556,639"/>
+      <TextEquiv>
+        <Unicode>police</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w78">
+      <Coords points="706,569 936,569 936,645 706,645"/>
+      <TextEquiv>
+        <Unicode>academy</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w79">
+      <Coords points="958,564 1082,564 1082,631 958,631"/>
+      <TextEquiv>
+        <Unicode>chief</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w80">
+      <Coords points="1088,572 1223,572 1223,644 1088,644"/>
+      <TextEquiv>
+        <Unicode>killing</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w81">
+      <Coords points="1241,586 1280,586 1280,657 1241,657"/>
+      <TextEquiv>
+        <Unicode>a</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w82">
+      <Coords points="1288,588 1549,588 1549,681 1288,681"/>
+      <TextEquiv>
+        <Unicode>bystander</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w83">
+      <Coords points="1569,620 1688,620 1688,686 1569,686"/>
+      <TextEquiv>
+        <Unicode>And</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w84">
+      <Coords points="1702,626 1749,626 1749,666 1702,666"/>
+      <TextEquiv>
+        <Unicode>in</Unicode>
+      </TextEquiv>
+    </Word>
+  </Page>
+</PcGts>

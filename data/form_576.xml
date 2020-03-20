@@ -1,0 +1,533 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PcGts xmlns="https://schema.omnius.com/pagesformat/2019.07.03">
+  <Metadata>
+    <Creator>pagexmltools.pages.pagexml_create v3.25.0 (PageXML 2020.02.10)</Creator>
+    <Created>2020-03-20T12:02:50Z</Created>
+    <LastChange>2020-03-20T12:02:50Z</LastChange>
+  </Metadata>
+  <Page imageFilename="form_576.jpg" imageHeight="1788" imageWidth="1920">
+    <Word id="w0">
+      <Coords points="128,181 185,181 185,201 128,201"/>
+      <TextEquiv>
+        <Unicode>was</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w1">
+      <Coords points="197,183 214,183 214,199 197,199"/>
+      <TextEquiv>
+        <Unicode>a</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w2">
+      <Coords points="220,143 409,143 409,208 220,208"/>
+      <TextEquiv>
+        <Unicode>CIAbacked</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w3">
+      <Coords points="416,130 520,130 520,180 416,180"/>
+      <TextEquiv>
+        <Unicode>attempt</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w4">
+      <Coords points="534,125 561,125 561,171 534,171"/>
+      <TextEquiv>
+        <Unicode>by</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w5">
+      <Property key="entity" value="B-gpe"/>
+      <Coords points="577,117 673,117 673,156 577,156"/>
+      <TextEquiv>
+        <Unicode>Cuban</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w6">
+      <Coords points="672,107 804,107 804,156 672,156"/>
+      <TextEquiv>
+        <Unicode>exiles</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w7">
+      <Coords points="804,121 831,121 831,161 804,161"/>
+      <TextEquiv>
+        <Unicode>to</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w8">
+      <Coords points="837,123 988,123 988,184 837,184"/>
+      <TextEquiv>
+        <Unicode>overthrow</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w9">
+      <Property key="entity" value="B-per"/>
+      <Coords points="1001,131 1086,131 1086,179 1001,179"/>
+      <TextEquiv>
+        <Unicode>Fidel</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w10">
+      <Property key="entity" value="B-per"/>
+      <Coords points="1087,143 1204,143 1204,190 1087,190"/>
+      <TextEquiv>
+        <Unicode>Castro</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w11">
+      <Coords points="1204,146 1323,146 1323,194 1204,194"/>
+      <TextEquiv>
+        <Unicode>Sales</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w12">
+      <Coords points="1336,157 1365,157 1365,198 1336,198"/>
+      <TextEquiv>
+        <Unicode>of</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w13">
+      <Coords points="1376,156 1637,156 1637,213 1376,213"/>
+      <TextEquiv>
+        <Unicode>previouslyowned</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w14">
+      <Coords points="1652,160 1749,160 1749,204 1652,204"/>
+      <TextEquiv>
+        <Unicode>homes</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w15">
+      <Coords points="126,238 161,238 161,262 126,262"/>
+      <TextEquiv>
+        <Unicode>in</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w16">
+      <Coords points="172,222 217,222 217,268 172,268"/>
+      <TextEquiv>
+        <Unicode>the</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w17">
+      <Property key="entity" value="B-geo"/>
+      <Coords points="231,215 329,215 329,261 231,261"/>
+      <TextEquiv>
+        <Unicode>United</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w18">
+      <Property key="entity" value="B-geo"/>
+      <Coords points="344,206 453,206 453,250 344,250"/>
+      <TextEquiv>
+        <Unicode>States</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w19">
+      <Coords points="458,167 605,167 605,246 458,246"/>
+      <TextEquiv>
+        <Unicode>declined</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w20">
+      <Coords points="605,182 652,182 652,217 605,217"/>
+      <TextEquiv>
+        <Unicode>in</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w21">
+      <Property key="entity" value="B-tim"/>
+      <Coords points="650,177 723,177 723,227 650,227"/>
+      <TextEquiv>
+        <Unicode>May</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w22">
+      <Coords points="736,197 771,197 771,217 736,217"/>
+      <TextEquiv>
+        <Unicode>as</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w23">
+      <Coords points="785,163 886,163 886,230 785,230"/>
+      <TextEquiv>
+        <Unicode>higher</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w24">
+      <Coords points="886,172 1035,172 1035,250 886,250"/>
+      <TextEquiv>
+        <Unicode>mortgage</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w25">
+      <Coords points="1046,186 1175,186 1175,253 1046,253"/>
+      <TextEquiv>
+        <Unicode>interest</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w26">
+      <Coords points="1183,217 1260,217 1260,257 1183,257"/>
+      <TextEquiv>
+        <Unicode>rates</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w27">
+      <Coords points="1274,224 1317,224 1317,263 1274,263"/>
+      <TextEquiv>
+        <Unicode>cut</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w28">
+      <Coords points="1330,207 1444,207 1444,279 1330,279"/>
+      <TextEquiv>
+        <Unicode>demand</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w29">
+      <Property key="entity" value="B-tim"/>
+      <Coords points="1458,209 1581,209 1581,275 1458,275"/>
+      <TextEquiv>
+        <Unicode>Tuesday</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w30">
+      <Coords points="1595,243 1612,243 1612,262 1595,262"/>
+      <TextEquiv>
+        <Unicode>s</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w31">
+      <Coords points="1625,226 1716,226 1716,274 1625,274"/>
+      <TextEquiv>
+        <Unicode>report</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w32">
+      <Coords points="128,283 198,283 198,326 128,326"/>
+      <TextEquiv>
+        <Unicode>from</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w33">
+      <Coords points="210,287 239,287 239,324 210,324"/>
+      <TextEquiv>
+        <Unicode>a</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w34">
+      <Coords points="236,258 385,258 385,321 236,321"/>
+      <TextEquiv>
+        <Unicode>business</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w35">
+      <Coords points="394,242 482,242 482,315 394,315"/>
+      <TextEquiv>
+        <Unicode>group</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w36">
+      <Coords points="494,253 539,253 539,298 494,298"/>
+      <TextEquiv>
+        <Unicode>the</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w37">
+      <Property key="entity" value="B-org"/>
+      <Coords points="550,233 685,233 685,289 550,289"/>
+      <TextEquiv>
+        <Unicode>National</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w38">
+      <Property key="entity" value="B-org"/>
+      <Coords points="698,223 898,223 898,302 698,302"/>
+      <TextEquiv>
+        <Unicode>Association</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w39">
+      <Property key="entity" value="B-org"/>
+      <Coords points="904,239 939,239 939,292 904,292"/>
+      <TextEquiv>
+        <Unicode>of</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w40">
+      <Property key="entity" value="B-org"/>
+      <Coords points="950,238 1095,238 1095,316 950,316"/>
+      <TextEquiv>
+        <Unicode>Realtors</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w41">
+      <Coords points="1106,286 1172,286 1172,320 1106,320"/>
+      <TextEquiv>
+        <Unicode>says</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w42">
+      <Coords points="1185,258 1308,258 1308,336 1185,336"/>
+      <TextEquiv>
+        <Unicode>resales</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w43">
+      <Coords points="1307,277 1381,277 1381,326 1307,326"/>
+      <TextEquiv>
+        <Unicode>fell</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w44">
+      <Coords points="1393,308 1473,308 1473,328 1393,328"/>
+      <TextEquiv>
+        <Unicode>more</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w45">
+      <Coords points="1484,288 1543,288 1543,332 1484,332"/>
+      <TextEquiv>
+        <Unicode>than</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w46">
+      <Coords points="1555,272 1608,272 1608,327 1555,327"/>
+      <TextEquiv>
+        <Unicode>one</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w47">
+      <Coords points="1619,267 1731,267 1731,338 1619,338"/>
+      <TextEquiv>
+        <Unicode>percent</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w48">
+      <Coords points="1745,280 1765,280 1765,323 1745,323"/>
+      <TextEquiv>
+        <Unicode>If</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w49">
+      <Coords points="129,348 220,348 220,392 129,392"/>
+      <TextEquiv>
+        <Unicode>home</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w50">
+      <Coords points="221,338 308,338 308,387 221,387"/>
+      <TextEquiv>
+        <Unicode>sales</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w51">
+      <Coords points="313,307 472,307 472,393 313,393"/>
+      <TextEquiv>
+        <Unicode>continued</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w52">
+      <Coords points="483,320 508,320 508,360 483,360"/>
+      <TextEquiv>
+        <Unicode>at</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w53">
+      <Coords points="509,293 579,293 579,358 509,358"/>
+      <TextEquiv>
+        <Unicode>this</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w54">
+      <Coords points="578,308 662,308 662,349 578,349"/>
+      <TextEquiv>
+        <Unicode>rate</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w55">
+      <Coords points="651,302 718,302 718,343 651,343"/>
+      <TextEquiv>
+        <Unicode>for</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w56">
+      <Coords points="717,326 734,326 734,342 717,342"/>
+      <TextEquiv>
+        <Unicode>a</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w57">
+      <Coords points="746,297 806,297 806,347 746,347"/>
+      <TextEquiv>
+        <Unicode>full</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w58">
+      <Coords points="807,324 883,324 883,363 807,363"/>
+      <TextEquiv>
+        <Unicode>year</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w59">
+      <Coords points="895,318 941,318 941,355 895,355"/>
+      <TextEquiv>
+        <Unicode>67</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w60">
+      <Coords points="954,304 1077,304 1077,366 954,366"/>
+      <TextEquiv>
+        <Unicode>million</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w61">
+      <Coords points="1093,319 1191,319 1191,373 1093,373"/>
+      <TextEquiv>
+        <Unicode>homes</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w62">
+      <Coords points="1204,335 1294,335 1294,383 1204,383"/>
+      <TextEquiv>
+        <Unicode>would</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w63">
+      <Coords points="1309,345 1412,345 1412,397 1309,397"/>
+      <TextEquiv>
+        <Unicode>change</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w64">
+      <Coords points="1410,349 1510,349 1510,392 1410,392"/>
+      <TextEquiv>
+        <Unicode>hands</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w65">
+      <Property key="entity" value="B-tim"/>
+      <Coords points="1523,339 1646,339 1646,400 1523,400"/>
+      <TextEquiv>
+        <Unicode>Tuesday</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w66">
+      <Coords points="1660,368 1677,368 1677,387 1660,387"/>
+      <TextEquiv>
+        <Unicode>s</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w67">
+      <Coords points="128,417 219,417 219,463 128,463"/>
+      <TextEquiv>
+        <Unicode>report</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w68">
+      <Coords points="231,432 264,432 264,448 231,448"/>
+      <TextEquiv>
+        <Unicode>on</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w69">
+      <Coords points="266,378 420,378 420,459 266,459"/>
+      <TextEquiv>
+        <Unicode>existing</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w70">
+      <Coords points="421,389 499,389 499,431 421,431"/>
+      <TextEquiv>
+        <Unicode>home</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w71">
+      <Coords points="513,355 601,355 601,416 513,416"/>
+      <TextEquiv>
+        <Unicode>sales</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w72">
+      <Coords points="615,371 749,371 749,410 615,410"/>
+      <TextEquiv>
+        <Unicode>contrasts</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w73">
+      <Coords points="762,364 872,364 872,422 762,422"/>
+      <TextEquiv>
+        <Unicode>sharply</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w74">
+      <Coords points="886,376 948,376 948,422 886,422"/>
+      <TextEquiv>
+        <Unicode>with</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w75">
+      <Property key="entity" value="B-tim"/>
+      <Coords points="949,382 1087,382 1087,439 949,439"/>
+      <TextEquiv>
+        <Unicode>Monday</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w76">
+      <Coords points="1087,412 1102,412 1102,428 1087,428"/>
+      <TextEquiv>
+        <Unicode>s</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w77">
+      <Coords points="1104,378 1235,378 1235,446 1104,446"/>
+      <TextEquiv>
+        <Unicode>figures</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w78">
+      <Coords points="1248,426 1281,426 1281,444 1248,444"/>
+      <TextEquiv>
+        <Unicode>on</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w79">
+      <Coords points="1293,394 1379,394 1379,450 1293,450"/>
+      <TextEquiv>
+        <Unicode>sales</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w80">
+      <Coords points="1382,411 1419,411 1419,452 1382,452"/>
+      <TextEquiv>
+        <Unicode>of</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w81">
+      <Coords points="1434,407 1610,407 1610,464 1434,464"/>
+      <TextEquiv>
+        <Unicode>newlybuilt</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w82">
+      <Coords points="1611,401 1708,401 1708,456 1611,456"/>
+      <TextEquiv>
+        <Unicode>homes</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w83">
+      <Coords points="128,459 215,459 215,518 128,518"/>
+      <TextEquiv>
+        <Unicode>which</Unicode>
+      </TextEquiv>
+    </Word>
+    <Word id="w84">
+      <Coords points="228,445 387,445 387,512 228,512"/>
+      <TextEquiv>
+        <Unicode>increased</Unicode>
+      </TextEquiv>
+    </Word>
+  </Page>
+</PcGts>
