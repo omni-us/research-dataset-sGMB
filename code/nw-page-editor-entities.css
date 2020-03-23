@@ -1,0 +1,24 @@
+[value="B-geo"] ~ .Coords {
+  fill-opacity: 0.3;
+  fill: green;
+}
+
+[value="B-gpe"] ~ .Coords {
+  fill-opacity: 0.3;
+  fill: blue;
+}
+
+[value="B-org"] ~ .Coords {
+  fill-opacity: 0.3;
+  fill: magenta;
+}
+
+[value="B-per"] ~ .Coords {
+  fill-opacity: 0.3;
+  fill: orange;
+}
+
+[value="B-tim"] ~ .Coords {
+  fill-opacity: 0.3;
+  fill: cyan;
+}
