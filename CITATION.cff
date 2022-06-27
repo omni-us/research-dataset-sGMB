@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: If you use this data, please cite it as below.
+type: dataset
+title: Synthetic handwritten Groningen Meaning Bank (GMB) dataset
+authors:
+- family-names: Carbonell
+  given-names: Manuel
+- family-names: Fornés
+  given-names: Alicia
+- family-names: Villegas
+  given-names: Mauricio
+- family-names: Lladós
+  given-names: Josep
+version: 1
+date-released: 2020-03-23
+url: https://github.com/omni-us/research-dataset-sGMB
+preferred-citation:
+  type: article
+  title: A neural model for text localization, transcription and named entity recognition in full pages
+  authors:
+  - family-names: Carbonell
+    given-names: Manuel
+  - family-names: Fornés
+    given-names: Alicia
+  - family-names: Villegas
+    given-names: Mauricio
+  - family-names: Lladós
+    given-names: Josep
+  journal: Pattern Recognition Letters
+  year: 2020
+  month: 8
+  volume: 136
+  start: 219
+  end: 227
+  doi: https://doi.org/10.1016/j.patrec.2020.05.001
